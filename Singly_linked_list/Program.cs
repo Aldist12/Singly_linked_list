@@ -165,9 +165,6 @@ namespace Singly_linked_list
                             }
                     }
                 }
-                
+            }   
         }
-    }
-}
-
-   
+    } 
